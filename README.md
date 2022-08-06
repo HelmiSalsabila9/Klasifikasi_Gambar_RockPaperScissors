@@ -1,6 +1,6 @@
-# Klasifikasi_Gambar_RockPaperScissors
+# Belajar Machine Learning untuk Pemula
 Klasifikasi Gambar RockPaperScissors
-Submission Proyek Akhir : Klasifikasi Gambar
+\nSubmission Proyek Akhir : Klasifikasi Gambar
 
 # Kriteria
 
